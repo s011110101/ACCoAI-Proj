@@ -1,5 +1,5 @@
-import React from 'react'; // Make sure React is imported
-import IndexComponent from '@/app/components';
+import React from 'react';
+import IndexComponent from '@/app/components/component.jsx';
 const SettingPage = () => {
     return (
         <div>
